@@ -10,6 +10,8 @@ public class IEEE754GUITest {
 	gui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	gui.setVisible(true);
 
+
+
 	}
 
 }
