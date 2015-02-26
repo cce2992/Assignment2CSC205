@@ -1,0 +1,17 @@
+
+import javax.swing.JFrame;
+
+public class IEEE754GUITest {
+	public static void main (String[] args){
+	IEEE754GUI gui =new IEEE754GUI();
+
+
+
+	gui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	gui.setVisible(true);
+
+	}
+
+}
+
+
