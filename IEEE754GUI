@@ -33,7 +33,15 @@ public class IEEE754GUI extends JFrame{
 		super("IEEE754 GUI");
 		init();
 		pack();
-		setSize(1000,1000);}
+		setSize(1000,1000);
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	setVisible(true);
+
+	}
+
+}
+
+}
 
 		private void init() {
 			 contentpane = getContentPane();
